@@ -1,0 +1,12 @@
+.containerVehicles,
+.containerDuration,
+.startDate{
+    background-color: #dff0d8;
+}
+
+
+
+.vehicleDetailsContainer,
+.validityDetailsContainer{
+    background-color: #f9f9f9;
+}

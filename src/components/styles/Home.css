@@ -1,0 +1,82 @@
+.upperSection{
+    width: 100%;
+    padding: 4.2rem;
+    background: url('../images/bgImg_vintrica.png');
+    background-size: cover;
+    background-repeat: repeat-x;
+    background-position-y: bottom;
+    height: 100%;
+}
+
+
+
+.registration_form{
+    padding: 2px;
+    display: flex;
+    background-color: rgba(255, 119, 0, 0.905);
+
+}
+
+.left{
+    margin-left: -8px;
+}
+
+.upperMidSection{
+    width: 100%;
+    height: 100%;
+}
+
+
+.innerContainer{
+    padding: 2.5rem 0;
+}
+
+.leftSection ul li{
+    line-height: 30px;
+    font-size: 20px;
+    list-style-type:disclosure-closed;
+}
+
+
+
+
+img{
+    width: 100%;
+    height: auto; 
+}
+
+
+.lowerMidSection{
+    padding: 1rem;
+    background-color: rgb(206, 206, 206);
+}
+
+.innerlowerMidSection img{
+    width: 60%;
+    height: 60%;
+}
+
+
+.lowerSection{
+    padding: 1rem;
+    /* border: 1px solid red; */
+}
+
+
+.badgeStartJourney{
+    padding: 2rem;
+    background: linear-gradient(0deg,#ef750e,#fc8d2f);;
+}
+
+.badgeInnerContainer{
+    padding: 1rem;
+}
+
+.btn-badge{
+    width: 15rem;
+}
+
+
+
+
+
